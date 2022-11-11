@@ -1,5 +1,5 @@
 # Tool spam tin nhắn
-## [Bấm vào đây để tải xuống]
+
 ### Yêu cầu
 `python 3` ([tải xuống tại đây](https://www.python.org/))
 
