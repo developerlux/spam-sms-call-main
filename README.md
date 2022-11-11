@@ -5,7 +5,7 @@
 
 ***Để gửi tin nhắn ngẫu nhiên hàng loạt các bạn thêm dấu `,` giữa 2 đoạn tin nhắn***
 ------------------------------------------------------------------
-cre nhặt ở đâu đó khongg phải của mình 
+Cre nhặt ở đâu đó không phải của mình nhé ! 
 ```
 
 
